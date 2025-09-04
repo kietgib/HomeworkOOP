@@ -1,8 +1,8 @@
-# Name : Tran Gia Kiet 
-# ID Student: 24110103
-# Date update: 4/9/25
+### Name : Tran Gia Kiet 
+### ID Student: 24110103
+### Date update: 4/9/25
 
-# Vehicle Management Program (C++ OOP)
+## Vehicle Management Program (C++ OOP)
 
 ## 📌 Introduction
 This project demonstrates **Object-Oriented Programming (OOP)** concepts in C++ through the implementation of a `Vehicles` class.  
@@ -15,14 +15,15 @@ The program also shows how to:
 
 ---
 
-## 🛠️ Build & Run Instructions
+## Build & Run Instructions
 ### Compile
 ```bash
 g++ Vehicles.cpp -o Vehicles
 
 ```bash
 ./Vehicles
-
+```
+---
 ## Input format
 There are three examples are available in main functions
 Afterthat user will input some information
@@ -37,6 +38,7 @@ color
 maxSpeed
 fuelType
 
+---
 ## Example input(input.txt)
 2
 Car
@@ -56,6 +58,7 @@ Yellow
 110
 Diesel
 
+---
 ## Example Output
 The Car is accelerating to 170 km/h
 type: Car brand name: Honda
@@ -75,6 +78,7 @@ color: Yellow
 the maxspeed: 110 km/h
 fuel type: Diesel
 
+---
 ## Reflection
 When analyzing the requirements, I first identified the main entity: a Vehicles class that models real-world vehicles. The class encapsulates attributes such as type, brand name, registration number, model year, weight, color, max speed, and fuel type. To implement behaviors, I added methods like accelerate() and displayInfo() to make information are more various, and provide to client more more useful information to help them make a good decision.
 
