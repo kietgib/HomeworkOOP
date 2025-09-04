@@ -41,22 +41,22 @@ fuelType
 ---
 ## Example input(input.txt)
 2
-Car \\
-Honda \\
-HN123ABC \\
-2015 \\
-1100 \\
-Black \\
-170 \\
-Petrol \\
-Truck \\
-Isuzu \\
-ISZ567XYZ \\
-2019 \\
-6000 \\
-Yellow \\
-110 \\
-Diesel \\
+Car 
+Honda 
+HN123ABC 
+2015 
+1100 
+Black
+170 
+Petrol 
+Truck 
+Isuzu 
+ISZ567XYZ 
+2019 
+6000 
+Yellow 
+  110 
+  Diesel
 
 ---
 ## Example Output
